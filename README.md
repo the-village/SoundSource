@@ -3,7 +3,7 @@
 > SoundSource App is an Open-Source project for desktop Mac and Windows. 
 > It's built with Electron, Node.js.
 
-![Version 1.1.3 ](https://github.com/0susboy0/SoundSource/blob/master/img/Screen%20Shot%202019-04-29%20at%205.48.01%20PM.png)
+![Version 1.1.3 ](https://github.com/0susboy0/SoundSource/blob/master/img/Screen%20Shot%202019-04-29%20at%208.35.24%20PM.png)
 
 
 ---------------------------------
